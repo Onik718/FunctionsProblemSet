@@ -34,7 +34,7 @@ public class PS3_Functions {
     }
 
     static int Q6(int input){
-        // return input time 2
+        // return input times 2
         return 0;
     }
 
@@ -54,7 +54,7 @@ public class PS3_Functions {
     }
 
     static boolean Q10(int input){
-        // return true if the input is 21 or over, false otherwise
+        // return true if the input is 21 or more, false otherwise
         return false;
     }
 
@@ -64,7 +64,7 @@ public class PS3_Functions {
     }
 
     static String Q12(String input, int times){
-        // return the input concatenated times number of times
+        // return the input concatenated with itself times number of times
         return "";
     }
 
